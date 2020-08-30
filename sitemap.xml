@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="БЕСПЛАТНЫЙ ВЕБИНАР Астрология нового поколения" title="БЕСПЛАТНЫЙ ВЕБИНАР Астрология нового поколения">
+<page file="legal.html" text="Условиями" title="Согласие на обработку данных"/>
+<page file="oferta.html" text="Договор - оферта" title="Договор оферта"/>
+<page file="politika-konfidencialnosti.html" text="Политика конфиденциальности" title="Политика конфиденциальности"/>
+</page>
+</site>

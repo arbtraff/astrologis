@@ -1,0 +1,11 @@
+/* Code tidied up by ScrapBook */
+.notice-widget { display: none; }
+.notice-top-panel { border-radius: 0px; position: fixed; left: 0px; top: 0px; right: 0px; padding: 15px 50px; z-index: 1000; border-width: 0px; background: coral none repeat scroll 0% 0%; color: white; text-align: center; cursor: pointer; font-family: "Arial"; font-size: 20px; font-weight: normal; }
+.notice-top-panel .btn { margin-left: 15px; background: rgb(194, 94, 61) none repeat scroll 0% 0%; border-color: rgb(156, 76, 49); color: white; }
+.notice-top-panel .close-link { float: right; font-size: 30px; right: 30px; top: 10px; position: absolute; cursor: pointer; }
+.gc-notice-modal .error-block { padding-top: 10px; color: red; display: none; }
+.gc-notice-modal .error-block a { color: red; white-space: nowrap; text-decoration: underline; }
+@media screen and (max-width: 767px) {
+  .notice-top-panel { font-size: 14px; padding: 10px; }
+  .notice-top-panel .btn { display: none; }
+}
